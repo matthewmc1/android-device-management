@@ -8,5 +8,6 @@ public class AppConstants {
         protected static final String GM_APP = "com.google.android.gm";
         protected static final String CHROME_APP = "com.android.chrome";
         protected static final String DEVICE_POLICY_APP = "com.google.android.apps.work.clouddpc";
+        protected static final String ANYCONNECT_VPN = "com.cisco.anyconnect.vpn.android.avf";
     
 }

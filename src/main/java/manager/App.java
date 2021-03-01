@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.security.GeneralSecurityException;
 
 public class App {
-
     public static void main(String[] args) throws IOException, GeneralSecurityException {
         Policies policyManager = new Policies();
         policyManager.setPolicy(Constants.ENTERPRISE_NAME, Constants.POLICY_ID, policyManager.createPolicy());
